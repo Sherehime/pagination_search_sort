@@ -7,7 +7,7 @@ import "./styles.css";
 function App() {
   return (
     <div className="App">
-      <div class="heading">Список</div>
+      <div className="heading">Список</div>
       <Table />
     </div>
   );
